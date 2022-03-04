@@ -1,1 +1,2 @@
 estoy en la rama principal y este es lo primero que escribo
+estoy en la rama 2 y esto es lo primero que escribo
