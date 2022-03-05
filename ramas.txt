@@ -1,4 +1,4 @@
-estoy en la rama principal y este es lo primero que escribo
+estoy en la rama principal y este es lo primero que escribo, primer push con ssh a github
 esto es lo segundo que escribo en la rama master 
 estoy en la rama 2 y esto es lo primero que escribo.
 este es un nuevo commit para rama 2
