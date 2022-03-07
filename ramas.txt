@@ -4,3 +4,4 @@ estoy en la rama 2 y esto es lo primero que escribo.
 este es un nuevo commit para rama 2
 esto es unanueva lina desde rama 2, despues del primer merge
 intento del tercer marge
+se escribe desde carpeta "proyecto2"
