@@ -1,1 +1,2 @@
 esto seria el footer de mi blog pero como no lo quiero hacer hice este jajaja
+se agrego desde la rama de fix-typo
